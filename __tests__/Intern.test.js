@@ -22,5 +22,5 @@ test('employee gets an id', () => {
 
 test('employee gets an role', () => {
     const intern = new Intern({name: 'John', id: "240", email: 'John@example.com', role: 'Intern', school: 'universitystate'});
-    expect(intern.getRole()).toBe('manager');
+    expect(intern.getRole()).toBe('intern');
 });
