@@ -1,4 +1,4 @@
 const Team = require('./lib/Team');
 
-const Team = new Team();
+const team = new Team();
 team.build();
