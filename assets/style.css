@@ -1,0 +1,16 @@
+.manager {
+    background-color: darkgreen;
+}
+
+.intern {
+    background-color: darkblue;
+}
+
+.engineer {
+    background-color: darkgoldenrod
+}
+
+.card {
+    padding: 25px;
+    margin: 10px;
+}
