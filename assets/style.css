@@ -1,9 +1,9 @@
-.manager {
+.manager-card {
     background-color: darkgreen;
 }
 
 .intern {
-    background-color: darkblue;
+    background-color: darkred;
 }
 
 .engineer {
@@ -11,6 +11,6 @@
 }
 
 .card {
-    padding: 25px;
+    padding: 15px;
     margin: 10px;
 }
